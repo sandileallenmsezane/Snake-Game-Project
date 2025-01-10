@@ -56,13 +56,11 @@ To run this game, you'll need:
 
 ```
 snake-game/
-│
-├── src/
-│   ├── App.java          # Main application entry point
-│   ├── SnakeGame.java    # Core game logic and rendering
-│   └── Level.java        # Game difficulty enumeration
-│
-└── 
+   src/
+       App.java          # Main application entry point
+       SnakeGame.java    # Core game logic and rendering
+       Level.java        # Game difficulty enumeration
+
 ```
 
 ## Technical Details
