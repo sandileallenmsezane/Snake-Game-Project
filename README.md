@@ -84,10 +84,10 @@ snake-game/
 - [ ] Create different map layouts
 
 
-## Author
+## LINK TO THE ZIP GAME FILE!!
 
 Sandile Allen Msezane
-- GitHub: @sandileallenmsezane(https://github.com/sandileallenmsezane)
+- GitHub: @sandileallenmsezane(https://github.com/sandileallenmsezane/Snake-Game-Project.git)
 - LinkedIn: Sandile Msezane(https://linkedin.com/in/sandile-msezane)
 
 ## Acknowledgments
